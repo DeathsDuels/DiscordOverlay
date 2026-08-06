@@ -12,4 +12,4 @@ Any issues, make a Ticket in the Discord support-ticket section and an Admin wil
 
 
 
-![Death's Duels](![Logo](https://raw.githubusercontent.com/your-username/your-repo/main/assets/logo.png))
+(![Death's Duels](https://raw.githubusercontent.com/your-username/your-repo/main/assets/logo.png))
