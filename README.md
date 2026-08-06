@@ -1,4 +1,4 @@
-# **Welcome To Death's Duels**
+# *Welcome To Death's Duels*
 
   **Rules:**
 - No Harassment of any kind
