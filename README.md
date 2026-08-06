@@ -12,4 +12,4 @@ Any issues, make a Ticket in the Discord support-ticket section and an Admin wil
 
 
 
-![Death's Duels]()
+![Death's Duels](https://private-user-images.githubusercontent.com/313922922/632531438-c3d0c2c9-6967-4520-b06d-6e39450e7fb1.png)
