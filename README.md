@@ -12,4 +12,5 @@ Any issues, make a Ticket in the Discord support-ticket section and an Admin wil
 
 
 
-(![Death's Duels](https://raw.githubusercontent.com/your-username/your-repo/main/assets/logo.png/README.md))
+![Death's Duels](https://cdn.discordapp.com/attachments/288528119525146635/8907466
+48089722940/seymour-plush.jpg)
