@@ -6,7 +6,7 @@
 - Respect Duels
 - Do NOT spam chat
 
-<a id="Join Death's Duels Discord">https://discord.gg/ez9KD9NqGS</>
+<a id="Death's Duels Discord">[https://discord.gg/mordhau](https://discord.gg/ez9KD9NqGS)</a>
 
 Any issues, make a Ticket in the Discord support-ticket section and an Admin will assist you. 
 
