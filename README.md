@@ -9,3 +9,6 @@
 <a id="Join Death's Duels Discord">https://discord.gg/ez9KD9NqGS</>
 
 Any issues, make a Ticket in the Discord support-ticket section and an Admin will assist you.
+
+
+![Death's Logo](images/screenshot.png)
