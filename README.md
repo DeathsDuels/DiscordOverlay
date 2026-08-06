@@ -6,7 +6,7 @@
 - Respect Duels
 - Do NOT spam chat
 
-[![Join our Discord](https://img.shields.io/discord/<1534724209824104572>?label=Discord&logo=discord&color=7289da)](https://discord.gg/<(https://discord.gg/ez9KD9NqGS)>)
+[![Join our Discord](https://img.shields.io/discord/<1534724209824104572>?label=Discord&logo=discord&color=7289da)](<https://discord.gg/<(https://discord.gg/ez9KD9NqGS)>)
 
 Any issues, make a Ticket in the Discord support-ticket section and an Admin will assist you. 
 
