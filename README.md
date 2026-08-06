@@ -8,18 +8,9 @@
 
 <a id="Death's Duels Discord">[https://discord.gg/mordhau](https://discord.gg/ez9KD9NqGS)</>
 
-1. Numbered
-2. List
-3. Support
-- Nested
-- Bulleted
-- List
-- Support
+Any issues, make a Ticket in the Discord support-ticket section and an Admin will assist you. 
 
-**Standalone**
-* Bulleted
-* List
-* Support
 
-![Seymour](https://cdn.discordapp.com/attachments/288528119525146635/8907466
-48089722940/seymour-plush.jpg)
+
+
+file:///C:/Users/Dontf/OneDrive/Pictures/Deaths%20Duels%20logo.png
