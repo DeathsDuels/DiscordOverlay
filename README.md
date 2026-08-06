@@ -6,11 +6,11 @@
 - Respect Duels
 - Do NOT spam chat
 
-<a id="Death's Duels Discord">(https://discord.gg/ez9KD9NqGS)</>
+[![Join our Discord](https://img.shields.io/discord/<1534724209824104572>?label=Discord&logo=discord&color=7289da)](https://discord.gg/<[INVITE_CODE](https://discord.gg/ez9KD9NqGS)>)
 
 Any issues, make a Ticket in the Discord support-ticket section and an Admin will assist you. 
 
 
 
 
-file:///C:/Users/Dontf/OneDrive/Pictures/Deaths%20Duels%20logo.png
+
