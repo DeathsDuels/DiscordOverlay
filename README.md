@@ -11,4 +11,4 @@
 Any issues, make a Ticket in the Discord support-ticket section and an Admin will assist you.
 
 
-![Death's Logo]([images/screenshot.png](https://github.com/DeathsDuels/Image/blob/main/Death's%20Logo))
+![Death's Logo]((https://github.com/DeathsDuels/Image/blob/main/Death's%20Logo))
