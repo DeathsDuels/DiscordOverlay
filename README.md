@@ -12,4 +12,4 @@ Any issues, make a Ticket in the Discord support-ticket section and an Admin wil
 
 
 
-![Death's Duels](https://cdn.discordapp.com/icons/1534724209824104572/24e088bd9d443704d0af04a952343a9a.webp?size=1024)
+
