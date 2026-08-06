@@ -1,6 +1,6 @@
 # Welcome To Death's Duels**
 
-**Rules:**
+  **Rules:**
 - No Harassment of any kind
 - No Cyber Bullying
 - Respect Duels
