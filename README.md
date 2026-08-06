@@ -11,6 +11,6 @@
 Any issues, make a Ticket in the Discord support-ticket section and an Admin will assist you.
 
 
-!{}(https://github.com/user-attachments/assets/24329d09-7d31-4e65-a9a0-505f058a3f45)
+(https://github.com/user-attachments/assets/24329d09-7d31-4e65-a9a0-505f058a3f45)
 
 
