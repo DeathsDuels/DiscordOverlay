@@ -13,7 +13,7 @@
 - #9 DO NOT VK players for no reason!!!!!
 - #10 If you are being a nuisance admin action can be taken.    
 
-VIP purchases can be made here! (NOT MONTHLY!)(ONE TIME ONLY!) https://ko-fi.com/deathsduels
+VIP purchases can be made here! (ONE TIME ONLY!) https://ko-fi.com/deathsduels
 
 Any issues, make a Ticket in the Discord support-ticket section and an Admin will assist you.
 
