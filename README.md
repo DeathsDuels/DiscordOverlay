@@ -1,5 +1,5 @@
 # *Welcome To Death's Duels*
-<a id="Join Death's Duels Discord">https://discord.gg/ez9KD9NqGS
+<a id=[Join Death's Duels Discord](https://discord.gg/ez9KD9NqGS)
 
   **Rules:**
 - #1 No Harassment of any kind
@@ -13,7 +13,7 @@
 - #9 DO NOT VK players for no reason!!!!!
 - #10 If you are being a nuisance admin action can be taken.    
 
-<a id="VIP purchases can be made here! (ONE TIME ONLY!)">https://ko-fi.com/deathsduels  
+<a id=[VIP purchases can be made here! (ONE TIME ONLY!)](https://ko-fi.com/deathsduels)  
 
 Any issues, make a Ticket in the Discord support-ticket section and an Admin will assist you.
 
